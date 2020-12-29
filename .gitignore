@@ -1,0 +1,6 @@
+*.*~
+database.ini
+.venv
+
+*.pyc
+__pycache__
